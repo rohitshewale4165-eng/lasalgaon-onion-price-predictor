@@ -32,6 +32,20 @@ Onion prices in India are highly volatile and vary significantly across seasons 
 
 ---
 
+## 📁 Project Structure
+
+onion-price-predictor/
+├── data/ # Raw and processed datasets
+├── models/ # Trained model files (.pkl)
+├── notebooks/ # Jupyter/Colab notebooks
+├── src/
+│ ├── onion_price_app.py # Main Streamlit app
+│ ├── data_fetcher.py # Data loading utilities
+│ └── scrape_apmc.py # APMC data scraper
+├── requirements.txt
+└── README.md
+
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python
@@ -90,5 +104,3 @@ This project is open source and available under the [MIT License](LICENSE).
 **Rohit Shewale**
 
 ---
-
-## 📁 Project Structure
