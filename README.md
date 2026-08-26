@@ -31,7 +31,16 @@ Onion prices in India are highly volatile and vary significantly across seasons 
 | 6. Deployment & Testing | Ran and tested the application locally via **Ubuntu (WSL)** |
 
 ---
+## 🛠️ Tech Stack
 
+- **Language:** Python
+- **ML/Data:** Pandas, Scikit-learn
+- **Web App:** Streamlit
+- **Training Environment:** Google Colab
+- **Development Environment:** Sublime Text, WSL (Ubuntu)
+
+
+---
 ## 📁 Project Structure
 
 onion-price-predictor/
@@ -44,18 +53,6 @@ onion-price-predictor/
 │ └── scrape_apmc.py # APMC data scraper
 ├── requirements.txt
 └── README.md
-
-
-## 🛠️ Tech Stack
-
-- **Language:** Python
-- **ML/Data:** Pandas, Scikit-learn
-- **Web App:** Streamlit
-- **Training Environment:** Google Colab
-- **Development Environment:** Sublime Text, WSL (Ubuntu)
-
-
----
 
 ## 🚀 Getting Started
 
